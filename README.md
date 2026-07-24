@@ -1,30 +1,34 @@
-<h1 align="center">Hi, I'm Naveen Kumar Reddy 👋</h1>
+<div align="center">
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Software+Engineer;Java+%7C+Spring+Boot+%7C+MySQL+%7C+React.js;24%2B+DSA+Problems+Solved+on+LeetCode" alt="Typing SVG" />
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:56CCF2&height=200&section=header&text=Naveen%20Kumar%20Reddy&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Java%20Full%20Stack%20Developer&descSize=20&descAlignY=58&animation=fadeIn" width="100%"/>
 
-<p align="center">
+<img src="https://avatars.githubusercontent.com/u/174491386?v=4" width="130" style="border-radius: 50%; margin-top: 10px;" />
+
+### <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=650&lines=Java+%7C+Spring+Boot+%7C+React.js+%7C+MySQL;Building+Scalable+Full+Stack+Applications;24%2B+DSA+Problems+Solved+on+LeetCode" alt="Typing SVG" />
+
+<p>
   <a href="https://www.linkedin.com/in/chinnathimmannagari-naveen-kumar-reddy-60807a34b">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/C_Naveen_Kumar_Reddy/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="mr.cnaveenkumar25@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:chinnathimmanagarinaveen@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
+</div>
+
 ---
 
-### 🚀 About Me
+### 👋 About Me
 
-- 🎓 Software Engineer building full-stack applications with **Java, Spring Boot, MySQL, and React.js**
-- ✅ **24+ DSA problems solved** on [LeetCode](https://leetcode.com/u/C_Naveen_Kumar_Reddy/) — actively growing this number
-- 🌱 Currently building **Food Waste Management System** — a platform connecting NGOs/orphanages with restaurants & function halls to redirect surplus food instead of letting it go to waste
+- 💻 **Java Full Stack Developer** with hands-on experience building web and mobile apps through academic projects, internships, and structured training
+- 🎓 Bachelor of Engineering, Vemana Institute of Technology, Bengaluru — **88.1%** (2022–2026)
+- ✅ **24+ DSA problems solved** on [LeetCode](https://leetcode.com/u/C_Naveen_Kumar_Reddy/)
+- 🌱 Currently in **Full Stack Java Training** at Destination Career — deepening Spring Boot, Hibernate & REST API skills
 - 📍 Based in Bengaluru, Karnataka
-- ⚡ Fun fact: I've shipped a real Android app (Parisara Cycle) that turns everyday cycling into measurable environmental impact
 
 ---
 
@@ -32,15 +36,38 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+### 💼 Experience
+
+**Android App Developer Intern** — MindMatrix, Bengaluru
+*Feb 2026 – May 2026*
+- Designed and developed Android applications using Java, building and enhancing components to meet business requirements
+- Built **Parisaara Cycle**, an eco-friendly Android app that tracks CO₂ savings from cycling
+
+**Full Stack Web Developer Intern** — Prinston Smart Engineers, Bengaluru
+*Jun 2024 – Jul 2024*
+- Assisted in designing and developing web application components using React and PHP
+- Participated in code reviews and followed coding best practices to maintain code quality
+
+**Full Stack Java Training** — Destination Career, BTM Layout, Bengaluru
+*Jul 2026 – Present*
+- Hands-on training in Core Java, Advanced Java, JDBC, Servlets, JSP, Spring, Spring Boot, Hibernate, and RESTful APIs
+- Building full-stack web applications using HTML, CSS, JavaScript, React.js, MySQL, Git, and GitHub with Agile practices
 
 ---
 
@@ -52,24 +79,24 @@
 
 **🚲 [Parisara Cycle](https://github.com/Naveen789317/Parisara-Cycle)**
 
-Android app that tracks CO₂ savings from cycling, suggests the shortest city routes, lets friends collaborate on group rides, and reports potholes/road hazards.
+Android app built during my MindMatrix internship — tracks CO₂ savings from cycling, suggests the shortest city routes, lets friends collaborate on group rides, and reports potholes/road hazards.
 
-`Kotlin` `Android`
+`Java` `Kotlin` `Android`
 
 </td>
 <td width="50%" valign="top">
 
-**🍽️ Food Waste Management System** *(building — repo coming soon)*
+**🍽️ Food Waste Management System** *(repo coming soon)*
 
-A web platform bridging restaurants & function halls with NGOs/orphanages to deliver surplus/leftover food instead of it going to waste.
+Full-stack web application connecting food donors — restaurants & function halls — with NGOs and orphanages to reduce food waste through efficient surplus food distribution.
 
-`Java` `Spring Boot` `MySQL` `React`
+`Java` `Spring Boot` `MySQL` `React.js`
 
 </td>
 </tr>
 </table>
 
-**🔧 Other Project:** Smart Footstep Power Generator — college major project generating electrical energy from footstep pressure (hardware/embedded systems)
+**🔧 Other Project:** Smart Footstep Power Generator — energy harvesting system converting footstep pressure into electrical energy using piezoelectric sensors
 
 ---
 
@@ -84,9 +111,20 @@ A web platform bridging restaurants & function halls with NGOs/orphanages to del
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naveen789317&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:56CCF2,100:2F80ED&height=120&section=footer&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  📫 Reach me: <a href="https://www.linkedin.com/in/chinnathimmannagari-naveen-kumar-reddy-60807a34b">LinkedIn</a> ・ 
-  <a href="https://leetcode.com/u/C_Naveen_Kumar_Reddy/">LeetCode</a>
-</p>
+<div align="center">
+
+**Thanks for stopping by — let's connect!**
+
+<a href="https://www.linkedin.com/in/chinnathimmannagari-naveen-kumar-reddy-60807a34b">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://leetcode.com/u/C_Naveen_Kumar_Reddy/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+<a href="mailto:chinnathimmanagarinaveen@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
