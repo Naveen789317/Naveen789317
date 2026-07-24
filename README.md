@@ -7,7 +7,7 @@
 ### <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=650&lines=Java+%7C+Spring+Boot+%7C+React.js+%7C+MySQL;Building+Scalable+Full+Stack+Applications;24%2B+DSA+Problems+Solved+on+LeetCode" alt="Typing SVG" />
 
 <p>
-  <a href="linkedin.com/in/c-naveen-kumar-reddy-60807a34b">
+  <a href="https://www.linkedin.com/in/c-naveen-kumar-reddy-60807a34b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/C_Naveen_Kumar_Reddy/">
@@ -130,7 +130,7 @@ Full-stack web application connecting food donors — restaurants & function hal
 
 **Thanks for stopping by — let's connect!**
 
-<a href="linkedin.com/in/c-naveen-kumar-reddy-60807a34b">
+<a href="https://www.linkedin.com/in/c-naveen-kumar-reddy-60807a34b/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://leetcode.com/u/C_Naveen_Kumar_Reddy/">
