@@ -13,7 +13,7 @@
   <a href="https://leetcode.com/u/C_Naveen_Kumar_Reddy/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="mailto:chinnathimmanagarinaveen@gmail.com">
+  <a href="mailto:mr.cnaveenkumar25@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="tel:+919014510196">
