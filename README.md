@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:56CCF2&height=200&section=header&text=Naveen%20Kumar%20Reddy&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Java%20Full%20Stack%20Developer&descSize=20&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:56CCF2&height=200&section=header&text=C.%20Naveen%20Kumar%20Reddy&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20Fresher&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
 
 <img src="https://avatars.githubusercontent.com/u/174491386?v=4" width="130" style="border-radius: 50%; margin-top: 10px;" />
 
@@ -54,6 +54,14 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+### 🏆 Achievements
+
+![Salesforce](https://img.shields.io/badge/Agentblazer%20Champion%202026-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+
+- **Agentblazer Champion 2026** — Recognized on Salesforce Trailhead for demonstrating expertise in Salesforce AI agent concepts
 
 ---
 
