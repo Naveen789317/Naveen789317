@@ -16,6 +16,9 @@
   <a href="mailto:chinnathimmanagarinaveen@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="tel:+919014510196">
+    <img src="https://img.shields.io/badge/+91%209014510196-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 </p>
 
 </div>
@@ -27,8 +30,10 @@
 - 💻 **Java Full Stack Developer** with hands-on experience building web and mobile apps through academic projects, internships, and structured training
 - 🎓 Bachelor of Engineering, Vemana Institute of Technology, Bengaluru — **88.1%** (2022–2026)
 - ✅ **24+ DSA problems solved** on [LeetCode](https://leetcode.com/u/C_Naveen_Kumar_Reddy/)
+- 🏆 **Agentblazer Champion 2026** — Salesforce Trailhead
 - 🌱 Currently in **Full Stack Java Training** at Destination Career — deepening Spring Boot, Hibernate & REST API skills
 - 📍 Based in Bengaluru, Karnataka
+- 🎯 **Open to roles:** Software Engineer · Java Full Stack Developer · Frontend Developer
 
 ---
 
